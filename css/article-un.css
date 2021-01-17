@@ -1,0 +1,10 @@
+body {
+    font-size: 62.5%;
+    background: rgb(255,255,255);
+    background: linear-gradient(169deg, rgba(255,255,255,1) 0%, rgba(95,11,96,1) 50%, rgba(255,255,255,1) 100%); 
+}
+
+nav {
+    background: rgb(255,255,255);
+    background: linear-gradient(169deg, rgba(255,255,255,1) 0%, rgba(95,11,96,1) 50%, rgba(255,255,255,1) 100%); 
+}
